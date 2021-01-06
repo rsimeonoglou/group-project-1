@@ -1,3 +1,0 @@
-api_key="cc2cd531255b4c8b8220eea5c80bbeb1"
-
-gkey="AIzaSyBODrQZh4WJ7334DbSa3H4fyVliE-xgi14"
